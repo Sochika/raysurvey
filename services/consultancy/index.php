@@ -9,18 +9,21 @@
 
 <!-- content begin -->
 <div id="content" class="no-padding">
-			<section class="wpb_row vc_row-fluid"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper  "  >
-			<div  class="pwb_widgetised_column wpb_content_element">
+			<section class="wpb_row vc_row-fluid"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper  "  ><div  class="wpb_widgetised_column wpb_content_element">
 		<div class="wpb_wrapper">
 			
-		<div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-menu-service-sidebar-container"><ul id="menu-menu-service-sidebar" class="menu"><li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586"><a href="../../services/">All Services</a></li>
+<div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-menu-service-sidebar-container"><ul id="menu-menu-service-sidebar" class="menu"><li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586"><a href="../../services/">All Services</a></li>
 <li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-584"><a href="../engineering/">Engineering</a></li>
-<li id="menu-item-580" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-580"><a href="../topographic/">Topographic Surveys/Mapping</a></li>
-<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-585"><a href="../bathymetry/" aria-current="page">Hydrographic/ Bathymetry/ Offshore Surveys</a></li>
-<li id="menu-item-583" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-583"><a href="../Ground-Survey/">Ground/Aerial Surveys/GPS & Mapping Services</a></li>
+<li id="menu-item-580" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-580"><a href="../topographic/">Topographic</a></li>
+<li id="menu-item-581" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-581"><a href="../hydrographic/">Hydrographics</a></li>
+<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-585"><a href="../bathymetry/">Bathymetry</a></li>
+<li id="menu-item-583" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-583"><a href="../Ground-Survey/">Ground Survey & GPS</a></li>
 <li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-582"><a href="../geoscience/">GeoScience</a></li>
+<li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-582"><a href="../offshore/" aria-current="page">OffShore</a></li>
+<li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-582"><a href="../mapping-data/">Mapping, Data Processing and Chart Production</a></li>
 <li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-585"><a href="../rentals/">Rentals and Maintenance</a></li>
-<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service current-menu-item menu-item-585"><a href="../consultancy/">Consultancy and Training</a></li>
+<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service current-menu-item menu-item-585"><a href="../consultancy/" aria-current="page">Consultancy and Training</a></li>
+
 </ul></div></div>
 
 <?php include '../head/sidenav.php';?>
@@ -39,11 +42,11 @@
 		<div class="wpb_wrapper">
 			<p><strong><i>We offer Training and consultancies in all areas of our operations, Viz;</i></strong></p>
 			<ul>
-				<li>surveys</li>
+				<li>Surveying</li>
 				<li>Engineering</li>
 				<li>Environmental & Geosciences</li>
 			</ul>
-<!-- <p>survey</p> -->
+<p>survey</p>
 
 		</div>
 	</div>
@@ -56,7 +59,7 @@
 	        <h4>What services do surveys provide and how can I do i become one?</h4>
 	    </div>
 	    <div class="hide-content">
-	        <!-- Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit.	    </div> -->
+	        Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit.	    </div>
 	</div>      
 
 

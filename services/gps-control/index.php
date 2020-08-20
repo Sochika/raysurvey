@@ -14,7 +14,7 @@
 <div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-menu-service-sidebar-container"><ul id="menu-menu-service-sidebar" class="menu"><li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586"><a href="../../services/">All Services</a></li>
 <li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-584"><a href="../engineering/">Engineering</a></li>
 <li id="menu-item-580" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-580"><a href="../topographic/">Topographic</a></li>
-<li id="menu-item-581" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-581"><a href="../hydrographic/">Hydrographic</a></li>
+<li id="menu-item-581" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-581"><a href="../hydrographic/">Hydrographics</a></li>
 <li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-585"><a href="../bathymetry/">Bathymetry</a></li>
 <li id="menu-item-583" class="menu-item menu-item-type-post_type menu-item-object-service current-menu-item menu-item-583"><a href="../gps-control/" aria-current="page">GPS Control Survey</a></li>
 <li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-582"><a href="../geoscience/">GeoScience</a></li>

@@ -390,7 +390,7 @@ Working Hours: <strong>08:00-17:00</strong></li>
 								<!-- <a href="estimate-cost-for-your-shipments/index.html" title="Estimate Cost For Your Shipments"> -->
                             Route Survey & Acquisition of Bathymetry and Geophysical survey   </a></h5>
                             
-data necessary for Pipline installation including bathymetry & geophysical processing of data, charting and reporting                       </div>
+data necessary for pipeline installation including bathymetry & geophysical processing of data, charting and reporting                       </div>
                     </li>
                                
                     <li class="clearfix">
@@ -401,8 +401,8 @@ data necessary for Pipline installation including bathymetry & geophysical proce
                                                 <div class="txt">
                             <h5>
 								<!-- <a href="estimate-cost-for-your-shipment/index.html" title="Estimate Cost For Your Shipment"> -->
-								Span Survey for Southern Swamp Sales Gas Evacuation Pipline SPDC/ Saidel Geocadinal/Raysurvey   </a></h5>
-                            Post Lay Survey & Acquisition of Bathymetry Geophysical survey data necessary for free span detection of As laid Pipline including bathymetric & geophysical processing of data, charting and reporting...                        </div>
+								Span Survey for Southern Swamp Sales Gas Evacuation Pipeline SPDC/ Saidel Geocadinal/Raysurvey   </a></h5>
+                            Post Lay Survey & Acquisition of Bathymetry Geophysical survey data necessary for free span detection of As laid pipeline including bathymetric & geophysical processing of data, charting and reporting...                        </div>
                     </li>
                                
                     <li class="clearfix">

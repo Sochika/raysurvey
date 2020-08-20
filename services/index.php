@@ -352,6 +352,7 @@ Working Hours: <strong>08:00-17:00</strong></li>
             <div class="tiny-border"></div>
 <p class="lead big"><i>We are commited to be the leading survey solutions provider to our customer. We continually improving & implementing a quality management to achieve it</i></p>
 <div class="divider-single"></div>
+<p><img class="alignnone size-medium wp-image-557" src="../wp-content/uploads/02/signature.png" alt="signature" width="120" height="47" /></p>
 <div class="divider-single"></div>
 <p><strong>Raymond </strong>, Director<br />
 Ray Survey and Data Services       </div>

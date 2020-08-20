@@ -14,13 +14,16 @@
 			<section class="wpb_row vc_row-fluid"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper  "  ><div  class="wpb_widgetised_column wpb_content_element">
 		<div class="wpb_wrapper">
 			
-        <div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-menu-service-sidebar-container"><ul id="menu-menu-service-sidebar" class="menu"><li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586"><a href="../../services/">All Services</a></li>
+<div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-menu-service-sidebar-container"><ul id="menu-menu-service-sidebar" class="menu"><li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586"><a href="../../services/">All Services</a></li>
 <li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-584"><a href="../engineering/">Engineering</a></li>
-<li id="menu-item-580" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-580"><a href="../topographic/">Topographic Surveys/Mapping</a></li>
-<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-585"><a href="../bathymetry/" aria-current="page">Hydrographic/ Bathymetry/ Offshore Surveys</a></li>
-<li id="menu-item-583" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-583"><a href="../Ground-Survey/">Ground/Aerial Surveys/GPS & Mapping Services</a></li>
+<li id="menu-item-580" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-580"><a href="../topographic/">Topographic</a></li>
+<li id="menu-item-581" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-581"><a href="../hydrographic/">Hydrographics</a></li>
+<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-585"><a href="../bathymetry/">Bathymetry</a></li>
+<li id="menu-item-583" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-583"><a href="../Ground-Survey/">Ground Survey & GPS</a></li>
 <li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-582"><a href="../geoscience/">GeoScience</a></li>
-<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service current-menu-item menu-item-585"><a href="../rentals/">Rentals and Maintenance</a></li>
+<li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-582"><a href="../offshore/" aria-current="page">OffShore</a></li>
+<li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-582"><a href="../mapping-data/">Mapping, Data Processing and Chart Production</a></li>
+<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service current-menu-item menu-item-585"><a href="../rentals/" aria-current="page">Rentals and Maintenance</a></li>
 <li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-585"><a href="../consultancy/">Consultancy and Training</a></li>
 
 </ul></div></div>
@@ -32,14 +35,14 @@
 		<div class="wpb_wrapper">
 	<div class="text-left">
 		 
-    <h2><?php echo $page; ?> Services</h2>	
+			 <h2>Services Details</h2>
 			 <div class="divider-deco"><span></span></div>			
 		    </div>	
 	
 
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<p><strong><i><img class="pull-right alignright wp-image-592 size-full"  width="370" height="190" srcset=" 300w" sizes="(max-width: 370px) 100vw, 370px" /> We special in <?php echo "$page"?></i></strong></p>
+			<p><strong><i><img class="pull-right alignright wp-image-592 size-full" src="../../wp-content/uploads/01/width-1.jpg" alt="width-1" width="370" height="190" srcset="http://demo.vegatheme.com/gocargo/demo2/wp-content/uploads/01/width-1.jpg 370w, http://demo.vegatheme.com/gocargo/demo2/wp-content/uploads/01/width-1-300x154.jpg 300w" sizes="(max-width: 370px) 100vw, 370px" /> We special in <?php echo "$page"?> lallala</i></strong></p>
 <p>We rent out the following but not limited to the listed equipment to our Customers </p> 
 <ul>
     <li>Multibeam Echo-Sounder</li>
@@ -88,7 +91,7 @@
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="text-left ">
 		 
-			         			<div class="divider-deco"><span></span></div>			
+			 <h2><?php echo $page; ?> Services</h2>	        			<div class="divider-deco"><span></span></div>			
 		    </div>	
 	
 </div></div></div>

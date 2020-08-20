@@ -1,4 +1,4 @@
-<?$page = "Ground/Aerial Surveys/GPS & Mapping Services"?>
+<?$page = "Ground Survey & GPS"?>
 <?php $pic = "mapping-data"; ?>
 
 <?php require '../head/nav.php';?>
@@ -14,14 +14,18 @@
 			<section class="wpb_row vc_row-fluid"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper  "  ><div  class="wpb_widgetised_column wpb_content_element">
 		<div class="wpb_wrapper">
 			
-		<div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-menu-service-sidebar-container"><ul id="menu-menu-service-sidebar" class="menu"><li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586"><a href="../../services/">All Services</a></li>
+<div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-menu-service-sidebar-container"><ul id="menu-menu-service-sidebar" class="menu"><li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586"><a href="../../services/">All Services</a></li>
 <li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-584"><a href="../engineering/">Engineering</a></li>
-<li id="menu-item-580" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-580"><a href="../topographic/">Topographic Surveys/Mapping</a></li>
-<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-585"><a href="../bathymetry/" aria-current="page">Hydrographic/ Bathymetry/ Offshore Surveys</a></li>
-<li id="menu-item-583" class="menu-item menu-item-type-post_type menu-item-object-service current-menu-item menu-item-583"><a href="../Ground-Survey/">Ground/Aerial Surveys/GPS & Mapping Services</a></li>
+<li id="menu-item-580" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-580"><a href="../topographic/">Topographic</a></li>
+<li id="menu-item-581" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-581"><a href="../hydrographic/">Hydrographics</a></li>
+<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-585"><a href="../bathymetry/">Bathymetry</a></li>
+<li id="menu-item-583" class="menu-item menu-item-type-post_type menu-item-object-service current-menu-item menu-item-583"><a href="../Ground-Survey/">Ground Survey & GPS</a></li>
 <li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-582"><a href="../geoscience/">GeoScience</a></li>
+<li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-582"><a href="../offshore/" aria-current="page">OffShore</a></li>
+<li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-582"><a href="../mapping-data/" aria-current="page">Mapping, Data Processing and Chart Production</a></li>
 <li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-585"><a href="../rentals/">Rentals and Maintenance</a></li>
 <li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-585"><a href="../consultancy/">Consultancy and Training</a></li>
+
 </ul></div></div>
 
 <?php include '../head/sidenav.php';?>
@@ -38,7 +42,7 @@
 
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<!-- <p><strong><i><img class="pull-right alignright wp-image-592 size-full" src="../../wp-content/uploads/01/width-1.jpg" alt="width-1" width="370" height="190" srcset=" 300w" sizes="(max-width: 370px) 100vw, 370px" /> We special in <?php echo "$page"?> lallala</i></strong></p> -->
+			<!-- <p><strong><i><img class="pull-right alignright wp-image-592 size-full" src="../../wp-content/uploads/01/width-1.jpg" alt="width-1" width="370" height="190" srcset="http://demo.vegatheme.com/gocargo/demo2/wp-content/uploads/01/width-1.jpg 370w, http://demo.vegatheme.com/gocargo/demo2/wp-content/uploads/01/width-1-300x154.jpg 300w" sizes="(max-width: 370px) 100vw, 370px" /> We special in <?php echo "$page"?> lallala</i></strong></p> -->
 <!-- <p>hnb </p> <p>edvd.</p>
 
 		</div>
@@ -81,71 +85,80 @@
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075523481" >
 		<div class="wpb_wrapper">
 			<h4>Remote Sensing & Photogrammetry</h4>
-<p>Remote Sensing is a closely aligned technology to photogrammetry in that it also collects information from imagery. The term is derived from the fact that information about objects and features is collected without coming into contact with them.</p>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
+
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075528580" >
 		<div class="wpb_wrapper">
 			<h4>Land Geographical Information System</h4>
-<p>With Land Information Systems, management of land and resources with the help of data collected from both hardware and software became available and easy to manage. When combining the capabilities of geographical data collected through GIS Software, LIS data layers and datasets offer a much deeper understanding and clearer spatial analysis can ...</p>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
+
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075533288" >
 		<div class="wpb_wrapper">
 			<h4>Geotechnic services</h4>
-<p>What We Do. For the last few years GTS has been helping businesses with specialist geotechnical and structural services. Passionate about solutions, all projects are approached on an individual basis and problems will be solved using innovations specific to your requirements.</p>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
+
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075539189" >
 		<div class="wpb_wrapper">
-			<h4>Pipline Surveys </h4>
-<p>Our pipeline service professionals plan and execute projects exceeding both industry standards and those set by you. We use leading technology, remain up-to-date on all industry standards, codes, and regulations, and center all practices around safety and reliability. HGA can provide the necessary professional land surveying services required for pipelines, telecommunications, electric utility ..</p>
+			<h4>Pipeline Surveys </h4>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
+
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075533288" >
 		<div class="wpb_wrapper">
 			<h4>Precision Control Surveys by Satelite (GPS)</h4>
-<p>Survey control could now be established almost anywhere and it was only necessary to have a clear view of the sky so the signal from the GPS satellites could be received clearly. GPS is similar in some ways to the Trilateration and EDM previously discussed, except that the known positions are now the GPS satellites (and their orbits) 20,000 km ...
-</p>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
+
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075539189" >
 		<div class="wpb_wrapper">
 			<h4>High Altitude Remote Sensing </h4>
-<p>UAV-SFM remote sensing can capture information on the 3D structural and spectral traits of forest canopies at high spatial resolution and frequencies not possible ...</p>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
+
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075533288" >
 		<div class="wpb_wrapper">
 			<h4>Cartographic services</h4>
-<p>Our mapping and geographic information system (GIS) services provide you with cartographic expertise, site suitability studies, best path routing, geological or ...</p>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
+
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075539189" >
 		<div class="wpb_wrapper">
 			<h4>Utility Surveys-GPR Surveys </h4>
-<p>Depending on the service level demanded, a thorough electromagnetic survey can be followed by a more sophisticated Ground Penetrating Radar (GPR) scan.</p>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
+
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075533288" >
 		<div class="wpb_wrapper">
 			<h4>Geodetic Survey</h4>
-<p>Geodetic surveys cover large areas of the Earth's surface with measurements over long distances, where curvature is significant and taken into account to reach a high accuracy.</p>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
+
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075539189" >
 		<div class="wpb_wrapper">
-			<h4>Cadastral surveys </h4>
-<p>Cadastral surveys are generally performed to subdivide land into parcels for ownership under a land title and to re-establish boundaries of previously surveyed ...</p>
+			<h4>Cadastral Surveying </h4>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
+
 		</div>
 	</div>
 </div></div></div>

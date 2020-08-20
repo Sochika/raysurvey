@@ -16,12 +16,15 @@
 			
 <div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-menu-service-sidebar-container"><ul id="menu-menu-service-sidebar" class="menu"><li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586"><a href="../../services/">All Services</a></li>
 <li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-584"><a href="../engineering/">Engineering</a></li>
-<li id="menu-item-580" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-580"><a href="../topographic/">Topographic Surveys/Mapping</a></li>
-<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service current-menu-item menu-item-585"><a href="../bathymetry/" aria-current="page">Hydrographic/ Bathymetry/ Offshore Surveys</a></li>
-<li id="menu-item-583" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-583"><a href="../Ground-Survey/">Ground/Aerial Surveys/GPS & Mapping Services</a></li>
+<li id="menu-item-580" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-580"><a href="../topographic/">Topographic</a></li>
+<li id="menu-item-581" class="menu-item menu-item-type-post_type menu-item-object-service current-menu-item menu-item-581"><a href="../hydrographic/" aria-current="page">Hydrographics</a></li>
+<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-585"><a href="../bathymetry/">Bathymetry</a></li>
+<li id="menu-item-583" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-583"><a href="../Ground-Survey/">Ground Survey & GPS</a></li>
 <li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-582"><a href="../geoscience/">GeoScience</a></li>
+<li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-582"><a href="../mapping-data/">Mapping, Data Processing and Chart Production</a></li>
 <li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-585"><a href="../rentals/">Rentals and Maintenance</a></li>
 <li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-585"><a href="../consultancy/">Consultancy and Training</a></li>
+
 </ul></div></div>
 
 <?php include '../head/sidenav.php';?>
@@ -31,7 +34,17 @@
 		<div class="wpb_wrapper">
 	<div class="text-left">
 		 
-			 
+			 <h2>Services Details</h2>
+			 <div class="divider-deco"><span></span></div>			
+		    </div>	
+	
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<!-- <p><strong><i><img class="pull-right alignright wp-image-592 size-full" src="../../wp-content/uploads/01/width-1.jpg" alt="width-1" width="370" height="190" srcset="http://demo.vegatheme.com/gocargo/demo2/wp-content/uploads/01/width-1.jpg 370w, http://demo.vegatheme.com/gocargo/demo2/wp-content/uploads/01/width-1-300x154.jpg 300w" sizes="(max-width: 370px) 100vw, 370px" /> We special in <?php echo "$page"?> lallala</i></strong></p> -->
+<p>hnb </p> <p>edvd.</p>
+
+		</div>
 	</div>
 <div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div  class="wpb_single_image wpb_content_element vc_align_left">
@@ -61,8 +74,7 @@
 			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="340" height="380" src="../../wp-content/uploads/01/small-4.jpg" class="vc_single_image-img attachment-full" alt="" srcset="" sizes="(max-width: 340px) 100vw, 340px" /></div>
 		</figure>
 	</div>
-</div></div></div>
-<div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="text-left ">
 		 
 			 <h2><?php echo $page; ?> Services</h2>	        			<div class="divider-deco"><span></span></div>			
@@ -71,8 +83,8 @@
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075523481" >
 		<div class="wpb_wrapper">
-			<h4>Pipline Inspection and Detection Survey</h4>
-<p> Regular inspections are required to eliminate any possibility of damage. If the pipeline is in open, rusting and corrosion of the pipeline needs to be checked. If the pipeline is underground, the existence of methane and other gases can cause potential damage. So, going there manually is difficult and dangerous at the same time. So, that’s the use of drones come into the picture.</p>
+			<h4>Pipeline Inspection and Detection Survey</h4>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
 
 		</div>
 	</div>
@@ -80,20 +92,16 @@
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075528580" >
 		<div class="wpb_wrapper">
 			<h4>Pipline and Cable Route Surveys</h4>
-			<p>Gardline operates a fleet of multi-role survey vessels equipped with acoustic instrumentation capable of operating from nearshore to full ocean depth, including swathe bathymetry, side-scan sonar, sub-bottom profiling and magnetometer. In deep water cases where high resolution data is required, deeptow sensor solutions can be provided. Inshore and landfall surveys are conducted either as stand-alone operations or via deployment from the survey mother ship as requirements dictate.</p>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
+
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075533288" >
 		<div class="wpb_wrapper">
 			<h4>Pre- and Post- Dredging Survey</h4>
-			<p><ul>
-<li>A starting point from which to base all calculations</li>
-<li>An accurate estimation of material to be removed to achieve design depth</li>
-<li>Information that is invaluable for budgeting, tender documentation and permit applications</li>
-<li>An accurate computation of the volume of material removed during the dredging campaign</li>
-<li>Progress surveys can also be undertaken during the dredging campaign to ensure the project is running to schedule</li>
-</ul></p>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
+
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
@@ -108,16 +116,16 @@
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075492043" >
 		<div class="wpb_wrapper">
 			<h4>Geophysical and Geohazard Survey</h4>
-<p>Geohazard surveys employ a multi-disciplinary approach using geophysical, geological and geotechnical methods to
-determine the nature of the seabed and underlying sediments. As such, they may be required to assist with the
-positioning of wells, pipelines or production facilities.</p>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
+
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  vc_custom_1457075496642" >
 		<div class="wpb_wrapper">
 			<h4>Debris Search</h4>
-<p>Adequate search of an accumulation of fragments of rock</p>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate</p>
+
 		</div>
 	</div>
 </div></div></div></div></div></div></div></div></div><div class="clearfix"></div></section>
